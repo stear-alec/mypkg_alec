@@ -16,6 +16,7 @@ mylog <- function(vect) {
 }
 
 test <- c(9, 3, 12)
+test_2 <- c(1, 2, 3)
 mylog(test)
 
 #The package roxygen2 is very useful to document R function. It allows you to have
